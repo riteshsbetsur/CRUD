@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "AnilKumar",
+      "email": "anil@gmail.com",
+      "contact": "1231231231",
+      "address": "Nanjanagudu",
+      "id": "EsvEClW"
+    },
+    {
+      "name": "Maduu",
+      "email": "madu@gmail.com",
+      "contact": "1231231228",
+      "address": "Mysore",
+      "id": "VFo8GHJ"
+    },
+    {
+      "name": "manuuuu",
+      "email": "manu@gmail.com",
+      "contact": "1212121212",
+      "address": "Malavalli",
+      "id": "rMITia5"
+    },
+    {
+      "name": "Sonu",
+      "email": "sonu@gmail.com",
+      "contact": "1234561228",
+      "address": "Mandya",
+      "id": "05O5Z7s"
+    },
+    {
+      "name": "Ali",
+      "email": "ali@gmail.com",
+      "contact": "1212121212",
+      "address": "Mangalore",
+      "id": "qGFakvq"
+    },
+    {
+      "name": "Chandru",
+      "email": "chandruchikkoppa@gmail.com",
+      "contact": "12345678912",
+      "address": "Mangalore",
+      "id": "M8Jsvks"
+    }
+  ]
+}
